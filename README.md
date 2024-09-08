@@ -58,7 +58,8 @@ queries it cannot answer.
 - Provide users with helpful feedback when their queries cannot be addressed.
 
 Project 4 : Disease Prediction System using Machine Learning
-Level: Intermediate
+ 
+ Level: Intermediate
 
 Project Description:
 The "Disease Prediction System using Machine Learning" project aims to
